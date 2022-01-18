@@ -1,0 +1,22 @@
+.container{
+    width: 300px;
+    margin: 0 auto;
+}
+h2{
+    text-align:center;
+}
+.row{
+    background-color: lightgray;
+    padding: 20px;
+    margin-top: 50%;
+    border-radius: 5%;
+}
+button{
+    border-radius: 80%;
+    height: 50px;
+    width: 50px;
+}
+.result{
+    width: 90%;
+}
+
